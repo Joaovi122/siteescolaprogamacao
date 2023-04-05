@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color: #211dfd;
+    background-color: #f10000;
     color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
@@ -43,7 +43,7 @@
     font-size: 30px;
     align-items: center;
     justify-content: center;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 .alunos{
@@ -53,8 +53,8 @@
 }
 
 .Colegio-cs{
-    background-image: linear-gradient(#2d00f8,#00ffff);
-
+    background-image: linear-gradient(#ff0000,#ffa600);
+    padding: 60px 0;
 }
 
 .estudante-icone{
@@ -69,10 +69,10 @@
 
 .estudantes-gerais{
     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20% ;
+    grid-template-columns: 25% 25% 25% 25% ;
 
 }
 
 .linha{
-    width: 1308px;
+    width: 1913px;
 }
